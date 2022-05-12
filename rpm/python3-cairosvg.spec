@@ -1,6 +1,6 @@
 Name:       python3-cairosvg
 Summary:    Mako template library for Python 3
-Version:    2.5.2+git1
+Version:    2.5.2+git2
 Release:    1
 License:    LGPL3
 URL:        https://github.com/Kozea/CairoSVG
