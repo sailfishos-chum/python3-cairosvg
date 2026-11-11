@@ -14,6 +14,8 @@ BuildRequires:  python3-defusedxml
 BuildRequires:  python3dist(pillow)
 BuildRequires:  python3-tinycss2
 BuildRequires:  python3dist(pip)
+# Required for rendering fonts inside an svg
+Requires:  sailfish-fonts
 
 
 %description
